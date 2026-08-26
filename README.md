@@ -4,8 +4,6 @@
 
 BootLoader Labs Research · [Paper (PDF)](paper.pdf) · [bll.ac](https://bll.ac)
 
-Related product: [Second.fm](https://second.fm) — source-grounded AI Twins built on persistent human representations.
-
 ## Overview
 
 Personalized AI systems can retain information about a person, but the durable person-specific object is often left undefined when evidence grows, state construction changes, or the underlying foundation model is replaced.
@@ -27,3 +25,5 @@ The goal is not to make generated semantics true by hashing them. It is to make 
 The paper introduces **CMT-L5**, a leakage-controlled longitudinal corpus of 29,321 public authored posts from five anonymized individuals, together with a future-held-out evaluation protocol. The reported stress test isolates one structural failure mode—unsupported temporal-horizon extension—while explicitly separating that contract result from behavioral accuracy.
 
 The broader behavioral question remains falsifiable: given the same evidence, executor, and representation budget, can a persistent state better predict later authored judgments than alternative representations?
+
+[BootLoader Labs](https://bll.ac) · [Second.fm](https://second.fm)
