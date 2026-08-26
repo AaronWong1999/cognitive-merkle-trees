@@ -4,6 +4,8 @@
 
 BootLoader Labs Research · [Paper (PDF)](paper.pdf) · [bll.ac](https://bll.ac)
 
+Related product: [Second.fm](https://second.fm) — source-grounded AI Twins built on persistent human representations.
+
 ## Overview
 
 Personalized AI systems can retain information about a person, but the durable person-specific object is often left undefined when evidence grows, state construction changes, or the underlying foundation model is replaced.
